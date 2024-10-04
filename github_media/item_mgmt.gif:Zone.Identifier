@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/5e0905f6-d115-4b5d-a575-7f33a0b97a2b/Untitled%20video%20-%20Made%20with%20Clipchamp%20%289%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20241004%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20241004T184144Z&X-Amz-Expires=86400&X-Amz-Signature=4636b24dd227fd6f9ff0572af5c0add5540a0a0fa868fd885c817bbc4b30b064&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Untitled%20video%20-%20Made%20with%20Clipchamp%20%289%29.gif%22&response-content-type=image%2Fgif&x-id=GetObject
